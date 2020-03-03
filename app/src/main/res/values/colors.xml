@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e7e7e7</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="ColorBlack">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="ColorBlaclkFade1">#2b2e30</color>
+    <color name="colorRed">#ff0000</color>
+    <color name="ColorWhite">#ffffff</color>
+    <color name="color1">#e7e7e7</color>
+    <color name="color2"> #e7ffda</color>
+    <color name="color3">#bbf9f1</color>
+    <color name="color4">#fce6a9</color>
+    <color name="colorPurple">#698dff</color>
+    <color name="overlay_dark_10">#1A000000</color>
+    <color name="overlay_dark_20">#33000000</color>
+    <color name="icon_tintclr">#a9885d</color>
+    <color name="background_color">#009688</color>
+    <color name="accent">#03A9F4</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="fragment_1">#006064</color>
+    <color name="fragment_2">#7b1fa2</color>
+    <color name="fragment_3">#c2185b</color>
+    <color name="fragment_4">#303f9f</color>
+
+    <color name="red_active">#f44336</color>
+    <color name="purple_active">#9c27b0</color>
+    <color name="blue_active">#03a9f4</color>
+    <color name="green_active">#4caf50</color>
+    <color name="blue_grey_active">#607d8b</color>
+    <color name="yellow_active">#ffeb3b</color>
+    <color name="orange_active">#ff9800</color>
+    <color name="grey_active">#9e9e9e</color>
+
+    <color name="red_inactive">#e57373</color>
+    <color name="purple_inactive">#ba68c8</color>
+    <color name="blue_inactive">#64b5f6</color>
+    <color name="green_inactive">#81c784</color>
+    <color name="blue_grey_inactive">#90a4ae</color>
+    <color name="yellow_inactive">#fff176</color>
+    <color name="orange_inactive">#ffb74d</color>
+    <color name="gery_inactive">#e0e0e0</color>
+
+    <color name="default_inactive">#78909c</color>
+
+    <color name="red_bg_light">#ffebee</color>
+    <color name="purple_bg_light">#f3e5f5</color>
+    <color name="blue_bg_light">#e3f2fd</color>
+    <color name="green_bg_light">#e8f5e9</color>
+    <color name="blue_grey_bg_light">#eceff1</color>
+    <color name="yellow_bg_light">#fffde7</color>
+    <color name="orange_bg_light">#fff3e0</color>
+    <color name="grey_bg_light">#8d95989a</color>
+    <color name="white_greyish">#EEEEEE</color>
+    <color name="button_selectorcolor">#9E9E9E</color>
+
+
+</resources>
+

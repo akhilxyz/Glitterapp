@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "691292813457",
+    "firebase_url": "https://glitterapplication-5a494.firebaseio.com",
+    "project_id": "glitterapplication-5a494",
+    "storage_bucket": "glitterapplication-5a494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691292813457:android:df9376c0d1c0fb31bce730",
+        "android_client_info": {
+          "package_name": "com.akhilmca.glitterapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691292813457-4gtbojtg8fbl0rbvbrojp290e2h5ju2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akhilmca.glitterapplication",
+            "certificate_hash": "eac65fadcfe16857eda2edeeb8e6fb7bfdde8f20"
+          }
+        },
+        {
+          "client_id": "691292813457-0lqi36klu52j5g42q9826ppfp2itk4ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcmKdcdhXmTBdYC5G_peoVyRPRJzKOIio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691292813457-0lqi36klu52j5g42q9826ppfp2itk4ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
